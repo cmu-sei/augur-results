@@ -1,5 +1,5 @@
 # augur-results
-This repository contains the results of the main experiments from the Augur project. The main code repository for Augur can be found at: https://github.com/SEI-TAS/augur-code.
+This repository contains the results of the main experiments from the Augur project. The main code repository for Augur can be found at: https://github.com/cmu-sei/augur-code.
 
 ## Contents
 
